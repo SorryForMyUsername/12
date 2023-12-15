@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             //Задача 1. Используя случайное число в диапазоне от 1 до 7, вывести на экран название дня недели.
             //Random rnd = new Random();
-            //int number = rnd.Next(1, 7);
+            //int number = rnd.Next(-10, 10);
             //Console.WriteLine(number);
             //switch(number)
             //{
